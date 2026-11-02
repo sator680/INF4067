@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Exécution
 Dans chaque dossier, exécuter :
 
@@ -31,3 +32,6 @@ cd lsp-avant
 javac -encoding UTF-8 -d out *.java
 java -cp out inf4067.solid.lsp.avant.Mainlsp
 ```
+=======
+# INF4067
+>>>>>>> 75c5fa0d211e178cf4bf60da44f6a930662cfe17
