@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+NOMS: KENNE DEFFO
+PRENOM: ARTHUR
+MATRICULE: 23U2604
+INF4067
 # Exécution
 Dans chaque dossier, exécuter :
 
